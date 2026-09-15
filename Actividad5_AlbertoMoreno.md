@@ -1,8 +1,4 @@
-# Guía de Números Complejos
-
-## 📌 Ubicación en el plano (Imagen 1)
-
-Como no puedo dibujar directamente aquí, te explico en qué parte del plano de Gauss (Real, Imaginario) se ubica cada punto:
+## PLANO CARTESIANO
 
 *   **19) $-2 + 3i$** : ![1](foto2.jpeg)
 *   **20) $1 - 2i$** : ![1](foto6.jpeg)
