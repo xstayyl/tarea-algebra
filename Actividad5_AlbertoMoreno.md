@@ -13,9 +13,7 @@ Como no puedo dibujar directamente aquí, te explico en qué parte del plano de 
 
 ---
 
-## ➕ Operaciones Básicas (Sumas y Restas)
-
-Aquí agrupamos partes reales con reales y partes imaginarias con imaginarias.
+## RESUELVE LAS SIGUENTES OPERACIONES CON LOS NÚMEROS COMPLEJOS
 
 *   **25)** $(-7 - 4i) - (2 + i) = -9 - 5i$
 *   **26)** $(2 - 4i) - (5 - 3i) = -3 - i$
@@ -23,13 +21,6 @@ Aquí agrupamos partes reales con reales y partes imaginarias con imaginarias.
 *   **28)** $(1 + 5i) + (-8 - 5i) + 3 = (1 - 8 + 3) + (5i - 5i) = -4$
 *   **29)** $-8 - (3 - 5i) + (4 + 8i) = -8 - 3 + 5i + 4 + 8i = -7 + 13i$
 *   **30)** $(-4 + 2i) + (3i) + (-4 - 7i) = -8 - 2i$
-
----
-
-## ✖️ Multiplicaciones (Imagen 2)
-
-Ojo aquí: ¡recuerda siempre que $i^2 = -1$!
-
 *   **31)** $(2i)(-4i) = -8i^2 = -8(-1) = 8$
 *   **32)** $(-2i)(5i) \cdot 6 = (-10i^2) \cdot 6 = (10) \cdot 6 = 60$
 *   **33)** $(-7i)(8 + 8i)(-2 - 8i) = (-7i)(-16 - 64i - 16i - 64i^2) = (-7i)(48 - 80i) = -336i + 560i^2 = -560 - 336i$
