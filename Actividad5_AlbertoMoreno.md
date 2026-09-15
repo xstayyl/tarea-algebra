@@ -28,12 +28,6 @@ Como no puedo dibujar directamente aquí, te explico en qué parte del plano de 
 *   **35)** $(3i)(1 - 7i)(7 + 4i) = (3i)(7 + 4i - 49i - 28i^2) = (3i)(35 - 45i) = 105i - 135i^2 = 135 + 105i$
 *   **36)** $(-6i)(-5 + i)(6 - 2i) = (-6i)(-30 + 10i + 6i - 2i^2) = (-6i)(-28 + 16i) = 168i - 96i^2 = 96 + 168i$
 
----
-
-## ➗ Divisiones
-
-Para dividir, multiplicamos arriba y abajo por el conjugado del denominador.
-
 *   **37)** $\frac{10 - 7i}{1 + 3i} = \frac{(10 - 7i)(1 - 3i)}{(1 + 3i)(1 - 3i)} = \frac{10 - 30i - 7i + 21i^2}{1^2 + 3^2} = \frac{-11 - 37i}{10} = -1.1 - 3.7i$
 *   **38)** $\frac{4 + 2i}{-1 - 10i} = \frac{(4 + 2i)(-1 + 10i)}{(-1 - 10i)(-1 + 10i)} = \frac{-4 + 40i - 2i - 20}{1 + 100} = \frac{-24 + 38i}{101}$
 *   **39)** $\frac{1 + 4i}{-1 - 6i} = \frac{(1 + 4i)(-1 + 6i)}{(-1 - 6i)(-1 + 6i)} = \frac{-1 + 6i - 4i - 24}{1 + 36} = \frac{-25 + 2i}{37}$
@@ -43,9 +37,7 @@ Para dividir, multiplicamos arriba y abajo por el conjugado del denominador.
 
 ---
 
-## 📏 Valor Absoluto (Módulo)
-
-El módulo se calcula con el Teorema de Pitágoras: $|z| = \sqrt{a^2 + b^2}$.
+## CALCULA EL VALOR ABSOLUTO DE LOS SIGUENTES NÚMEROS COMPLEJOS
 
 *   **43)** $|-9 - 9i| = \sqrt{(-9)^2 + (-9)^2} = \sqrt{162} = 9\sqrt{2}$
 *   **44)** $|8 - 6i| = \sqrt{8^2 + (-6)^2} = \sqrt{100} = 10$
@@ -56,9 +48,7 @@ El módulo se calcula con el Teorema de Pitágoras: $|z| = \sqrt{a^2 + b^2}$.
 
 ---
 
-## ⚡ Potencias de $i$
-
-Solo hay que dividir el exponente entre 4 y ver el residuo.
+## RESUELVE LAS SIGUENTES POTENCIAS DE i
 
 *   **49)** $i^5 = i^1 = i$
 *   **50)** $i^{10} = i^2 = -1$
@@ -69,10 +59,7 @@ Solo hay que dividir el exponente entre 4 y ver el residuo.
 
 ---
 
-## 🔄 Forma Polar y Rectangular (Imagen 3)
-
-### Convertir a Forma Polar
-La forma polar se expresa como $r(\cos \theta + i\sin \theta)$. (Aquí usaré ángulos positivos de $0^\circ$ a $360^\circ$).
+## Convertir a Forma Polar
 
 *   **55) $6 - 8i$**  $\rightarrow r = 10, \theta \approx 306.87^\circ$. Resultado: $10(\cos 306.87^\circ + i\sin 306.87^\circ)$
 *   **56) $5\sqrt{2} + 5\sqrt{2}i$** $\rightarrow r = 10, \theta = 45^\circ$. Resultado: $10(\cos 45^\circ + i\sin 45^\circ)$
@@ -82,7 +69,6 @@ La forma polar se expresa como $r(\cos \theta + i\sin \theta)$. (Aquí usaré á
 *   **60) $-7i$** $\rightarrow r = 7, \theta = 270^\circ$. Resultado: $7(\cos 270^\circ + i\sin 270^\circ)$
 
 ### Convertir a Forma Rectangular
-Solo hay que resolver las funciones trigonométricas y multiplicar por $r$.
 
 *   **61)** $\cos 30^\circ + i \sin 30^\circ = \frac{\sqrt{3}}{2} + \frac{1}{2}i$
 *   **62)** $2(\cos 60^\circ + i \sin 60^\circ) = 2(\frac{1}{2} + \frac{\sqrt{3}}{2}i) = 1 + \sqrt{3}i$
@@ -93,9 +79,7 @@ Solo hay que resolver las funciones trigonométricas y multiplicar por $r$.
 
 ---
 
-## 🌳 Raíces de Números Complejos
-
-Para encontrar las $n$ raíces usamos la fórmula de De Moivre: $\sqrt[n]{r} \left(\cos\left(\frac{\theta + 360^\circ k}{n}\right) + i\sin\left(\frac{\theta + 360^\circ k}{n}\right)\right)$ evaluando $k$ desde $0$ hasta $n-1$.
+## Raíces de Números Complejos
 
 *   **67) 2 raíces cuadradas de $4(\cos 30^\circ + i\sin 30^\circ)$**
     *   $k=0$: $2(\cos 15^\circ + i \sin 15^\circ)$
