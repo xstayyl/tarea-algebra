@@ -55,7 +55,7 @@ Como no puedo dibujar directamente aquí, te explico en qué parte del plano de 
 *   **51)** $i^{20} = i^0 = 1$
 *   **52)** $i^{35} = i^3 = -i$
 *   **53)** $i^{256} = i^0 = 1$
-*   **54)** $i^{5^5}$ (es decir, $i^{3125}$). Al dividir $3125$ entre $4$ el residuo es $1$. Así que: $i^1 = i$
+*   **54)** $i^{5^5}$ = $i^1 = i$
 
 ---
 
