@@ -5,7 +5,7 @@
 Como no puedo dibujar directamente aquí, te explico en qué parte del plano de Gauss (Real, Imaginario) se ubica cada punto:
 
 *   **19) $-2 + 3i$** : ![1](foto2.jpeg)
-*   **20) $1 - 2i$** : Cuadrante IV. Te mueves $1$ a la derecha y $2$ hacia abajo.
+*   **20) $1 - 2i$** : ![1](foto6.jpeg)
 *   **21) $-4 + 3i$** : Cuadrante II. $4$ a la izquierda, $3$ hacia arriba.
 *   **22) $3 + i$** : Cuadrante I. $3$ a la derecha, $1$ hacia arriba.
 *   **23) $-4 - 4i$** : Cuadrante III. $4$ a la izquierda, $4$ hacia abajo.
