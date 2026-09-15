@@ -4,7 +4,7 @@
 
 Como no puedo dibujar directamente aquí, te explico en qué parte del plano de Gauss (Real, Imaginario) se ubica cada punto:
 
-*   **19) $-2 + 3i$** : ![alt text]((https://github.com/xstayyl/tarea-algebra/blob/main/WhatsApp%20Image%202026-09-15%20at%204.06.03%20PM%20(1).jpeg))
+*   **19) $-2 + 3i$** : ![Portada del proyecto](imagenes/portada.png)
 *   **20) $1 - 2i$** : Cuadrante IV. Te mueves $1$ a la derecha y $2$ hacia abajo.
 *   **21) $-4 + 3i$** : Cuadrante II. $4$ a la izquierda, $3$ hacia arriba.
 *   **22) $3 + i$** : Cuadrante I. $3$ a la derecha, $1$ hacia arriba.
